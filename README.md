@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is, my name is, my name is Slame shady 
+My name is, my name is, my name is Slime shady 
 <!--
 **Arnautovich/Arnautovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
