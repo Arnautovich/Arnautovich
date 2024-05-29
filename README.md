@@ -1,5 +1,6 @@
 ### Hi there 👋
-My name is, my name is, my name is Slime shady 
+I am Arnau Casalprim, 
+I am a student at the Swiss Federal Insitute of Technology (EPFL) in Lausanne. I am in my second year of my bachelor in Chemistry and Chemical engineering. 
 <!--
 **Arnautovich/Arnautovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
